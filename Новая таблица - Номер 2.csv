@@ -1,0 +1,4 @@
+"SELECT City FROM Customers;"
+"SELECT * FROM Customers ORDER BY City;"
+"SELECT * FROM Customers WHERE City LIKE 'a%';
+"
